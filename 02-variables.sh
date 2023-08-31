@@ -4,3 +4,4 @@
 DATE=$(date)
 
 echo "Hello, this script is executed at timestamp: $DATE"
+echo "This is for testing: $Date"
