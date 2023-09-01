@@ -1,5 +1,5 @@
 #!bin/bash
 
-Person=$("Pavan" "Kalpana" "Nayan")
+Person=("Pavan" "Kalpana" "Nayan")
 
-echo "First Person:($Person[0])"
+echo "First Person:(Person[0])"
